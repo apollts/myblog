@@ -4,4 +4,9 @@
 ceshi4
 Ceshi5
 创建DEV分支
+<<<<<<< HEAD
 从feature1分支切换回master
+=======
+创建FEATURE1分支
+>>>>>>> feature1
+feature1和master合并
